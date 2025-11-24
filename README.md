@@ -50,13 +50,8 @@ Step5. What You Learn From This Project
 - How to accept and validate player input
 - How simple game logic is designed and implemented
 
-Step6. File Structure
------------------
-project-folder/
-│
-├── tic_tac_toe.py
 
-Step7. Conclusion
+Step6. Conclusion
 -----------------
 This small project is great for anyone just starting with python. It teaches how a simple game is built from scratch using basic programming ideas. This game can later be enhanced by adding features such as a computer opponent, a graphical interface or even a scoring feature.
 
